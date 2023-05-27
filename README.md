@@ -1,10 +1,12 @@
-# Ray Tracing
+# RTracing
 
-A brand new educational YouTube series by Cherno. This repository contains all of the code for this project; most episodes will have their own commit you can browse.
+Uma nova série educacional do YouTube. Este repositório contém todo o código deste projeto; a maioria dos episódios terá seu próprio commit, você pode navegar.
 
-## Building and running
-Officially supports Windows 10/11 and Visual Studio 2022, with more platforms coming soon. You'll need to have the [Vulkan SDK](https://vulkan.lunarg.com/) installed.
+## Construindo e executando
+Suporta oficialmente Windows 10/11 e Visual Studio 2022, com mais plataformas em breve. Você precisará ter o [Vulkan SDK](https://vulkan.lunarg.com/) instalado.
 
-1. Clone recursively: `git clone --recursive https://github.com/TheCherno/RayTracing`
-2. Run `scripts/Setup.bat`
-3. Open `RayTracing.sln` and hit F5 (preferably change configuration to Release or Dist first, Debug is slow)# RTRacing
+1. Clone o repo
+2. Execute `scripts/Setup.bat`
+3. Abra `RayTracing.sln` e pressione F5 (de preferência, altere a configuração para Release ou Dist primeiro, a depuração é lenta)
+
+# RTRacing
